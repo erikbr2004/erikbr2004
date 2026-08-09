@@ -33,9 +33,9 @@
 
 <br/>
 
-Mobile Developer in training with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
+I'm a passionate software developer with a strong focus on desktop development and databases. I enjoy creating efficient and scalable applications, and I'm always eager to learn new technologies and improve my skills. My philosophy is to embrace challenges and continuously strive for excellence in my work.
 
-**Currently at** Rede Campo, Santa Helena, PR
+**Currently at** Santa Helena, Paraná, Brazil
 </details>
 
 <br/>
