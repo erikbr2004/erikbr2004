@@ -44,9 +44,9 @@ projects:
   - repo: "erikbr2004/Projeto-Estoque-C"
     arm: 0
     description: "A command-line inventory control system written in pure C (C99). Products are loaded from a text file (product.txt) into an in-memory doubly linked list, where all registration, lookup, and movement operations take place."
-  - repo: "erikbr2004/Projeto-Machine-e-Deep-Learning"
+  - repo: "erikbr2004/Projeto-WhatsUT"
     arm: 0
-    description: "A comparative study between classical feature engineering and end-to-end deep learning on the same problem: multiclass classification of 10 military aircraft models from images."
+    description: "A client-server instant messaging application built using Java RMI, featuring private chats, moderated groups, file transfer, and real-time notifications via remote callbacks. The interface is implemented in JavaFX."
   - repo: "erikbr2004/Projeto-Banco-de-Dados"
     arm: 1
     description: "A comprehensive relational database design for an educational institution, modeling students, guardians, staff, teachers, classes, subjects, schedules, and assessments. The repository covers the entire lifecycle: modeling, DDL, data loading, server-side business rules, automation, and access control."
