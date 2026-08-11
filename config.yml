@@ -41,18 +41,15 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "erikbr2004/Projeto-Arvore-de-Arquivos"
+  - repo: "erikbr2004/Projeto-Estoque-C"
     arm: 0
-    description: "A command-line file system simulator written in pure C. The program reads a list of paths from a text file, reconstructs the complete folder and file hierarchy in memory, and provides an interactive shell with commands modeled after a real terminal."
+    description: "A command-line inventory control system written in pure C (C99). Products are loaded from a text file (product.txt) into an in-memory doubly linked list, where all registration, lookup, and movement operations take place."
   - repo: "erikbr2004/Projeto-Machine-e-Deep-Learning"
     arm: 0
     description: "A comparative study between classical feature engineering and end-to-end deep learning on the same problem: multiclass classification of 10 military aircraft models from images."
   - repo: "erikbr2004/Projeto-Banco-de-Dados"
     arm: 1
     description: "A comprehensive relational database design for an educational institution, modeling students, guardians, staff, teachers, classes, subjects, schedules, and assessments. The repository covers the entire lifecycle: modeling, DDL, data loading, server-side business rules, automation, and access control."
-  - repo: "erikbr2004/Projeto-Estoque-C"
-    arm: 0
-    description: "A command-line inventory control system written in pure C (C99). Products are loaded from a text file (product.txt) into an in-memory doubly linked list, where all registration, lookup, and movement operations take place."
 
 
 # Theme color overrides (optional — defaults to deep space palette)
