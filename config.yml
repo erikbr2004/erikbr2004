@@ -29,6 +29,12 @@ galaxy_arms:
       - "C++"
       - "Python"
       - "Java"
+  - name: "Mobile Development"
+    color: "axon_amber"
+    items:
+      - "TypeScript"
+      - "JavaScript"
+      - "React Native"
   - name: "Databases"
     color: "dendrite_violet"
     items:
